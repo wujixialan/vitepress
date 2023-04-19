@@ -12,6 +12,6 @@ hero:
       text: 开始
       link: /page/index
     - theme: alt
-      text: 访问github
-      link: https://github.com/Yinzhuo19970516/vue-template
+      text: 访问 vitepress
+      link: https://github.com/wujixialan/vitepress
 ---
